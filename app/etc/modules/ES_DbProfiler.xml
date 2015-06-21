@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <ES_DbProfiler>
+            <active>true</active>
+            <codePool>local</codePool>
+        </ES_DbProfiler>
+    </modules>
+</config>
